@@ -1,0 +1,15 @@
+{
+  "dataStudio": {
+    "name": "Redash JSON Connect",
+    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-connectors/master/JSON-connect/assets/logo.png",
+    "company": "Tsuneo Yoshioka",
+    "companyUrl": "https://github.com/yoshiokatsuneo",
+    "addonUrl": "https://github.com/yoshiokatsuneo/redash-json-datastudio-connector/README.md",
+    "supportUrl": "https://github.com/yoshiokatsuneo/redash-json-datastudio-connector/issues/new?title=JSON%20Connect%20Connector%20Issue",
+    "shortDescription": "Connect to Redash JSON API by URL",
+    "description": "Free Redash JSON API connector. Fetch data from Redash API by URL. Use caching to speed up rendering.",
+    "sources": ["CUSTOM_JSON"],
+    "authType": ["NONE"],
+    "feeType": ["FREE"]
+  }
+}
